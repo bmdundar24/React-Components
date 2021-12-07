@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <ClassComp />
-        <FuncComp />
+        <FuncComp /> 
       </header>
     </div>
   );
